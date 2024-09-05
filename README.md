@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DigitalRealities-NZ
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning AI
+- 👋 Hi, I’m Mike @DigitalRealities-NZ
+- 👀 I’m interested in Software Development and Local AI LLMs
+- 🌱 I’m currently developing Local AI platforms for Corporate Networks
 - 💞️ I’m looking to collaborate on IT Documentation SaaS Platform
 - 📫 How to reach me hello@digitalrealities.co.nz
 <!---
